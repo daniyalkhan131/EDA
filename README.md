@@ -16,3 +16,8 @@ how is correlation between columns
 
 univariate analysis-
 analysis of single variable
+
+bivariate analysis and multivariate-
+
+
+Pandas Profiler-
